@@ -128,7 +128,7 @@ This includes:
 * Being able to debug, profile, visualize and monitor multiple experiments to assess model performance
 * Cable of using online cloud based computing services to scale experiments
 * Demonstrate knowledge about different distributed training paradigms within  machine learning and how to apply them
-* Deploy machine learning models, both locally and in the cloud
+* Deploy machine learning models, both locally and in the cloud.
 * Conduct a research project in collaboration with follow students using the frameworks taught in the course
 * Have lots of fun and share memes! :)
 
